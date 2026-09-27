@@ -27,9 +27,7 @@ Flavora is a feature-rich, cross-platform mobile and web application built with 
 ---
 
 ## 📱 App Screenshots / Architecture
-*(Add your app screenshots here if available)*
 
----
 
 ## 🚀 Getting Started Locally
 
@@ -58,6 +56,7 @@ Run the application:
 
 Bash
 flutter run
+
 📂 Project Structure
 Plaintext
 lib/
